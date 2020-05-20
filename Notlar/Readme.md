@@ -1,3 +1,5 @@
-PİC Timer hesaplama EXCEL belgesi
-BCD <--> DEC açıklama resmi
-CCS C ders notları
+PİC Timer hesaplama EXCEL belgesi \n
+BCD <--> DEC açıklama resmi \n
+CCS C ders notları \n
+\n
+CCS C ve Proteus DOSYALARINI içerir.
